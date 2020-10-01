@@ -25,6 +25,25 @@ We, here at MTC are, constantly Innovating, Inventing and Improvising.
 
 # Screenshot 
 
+## Index Page
+<p>
+  <img src="MTC-Exam_Registration_Portal-new-user/images/indexPage.png"
+</p>
+
+## Registration Page
+  <p>
+  <img src="MTC-Exam_Registration_Portal-new-user/images/Registration.png"
+</p>
+  
+## AdminView Page
+<p>
+  <img src="MTC-Exam_Registration_Portal-new-user/images/Adminview.png"
+</p>
+  
+## UserView Page
+<p>
+  <img src="MTC-Exam_Registration_Portal-new-user/images/userview.png"
+</p>
 
 ## The Portal Has Following Features 🏷️ ##
 1.You can Register your self<br>
